@@ -21,7 +21,7 @@ At the end of the this hands-on training, students will be able to;
 
 - Part 2 - Maven Settings
 
-- Part 3 - Creating Package Application - Free Style Maven Job
+- Part 3 - Creating Package Application - Free Style Maven Job (in java-tomcat-sample repo) 
 
 - Part 4 - Configuring Jenkins Pipeline with GitHub Webhook to Build the Java Code
 
