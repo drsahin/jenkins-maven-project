@@ -1,4 +1,4 @@
-# java-maven-project
+# jenkins-maven-project
 
 Java and Maven Jobs in Jenkins
 
